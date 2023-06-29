@@ -1,0 +1,1 @@
+solving the pascal's triangle interview question
