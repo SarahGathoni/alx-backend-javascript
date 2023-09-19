@@ -1,6 +1,3 @@
 export default function returnHowManyArguments(...args) {
-    for(let args of args){
-        return args
-    }
+  return args.length;
 }
-console.lo(returnHowManyArguments("Hello", "Holberton", 2020));
